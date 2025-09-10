@@ -32,6 +32,10 @@ During the lab demo, we'll implement "Add City" functionality:
     <img src="assets/img4.png" width="300" style="margin: 20px;">
 </div>
 
+<br>
+
+> **Note:** Your app does not need to look exactly like the screenshots.  The only requirement is the ability to edit an existing city.  
+
 ## 4. Implementation Tips
 
 ### 1. City Class Updates
@@ -66,5 +70,11 @@ public static EditFragment newInstance(City city) {
 }
 ```
 
+## 5. Submission
+
 > [!CAUTION]
 > Make sure to commit **and** push your code to the GitHub repository before the deadline!
+
+> Make sure you have updated `README.md` with **your name** and **CCID** (Not your student number).
+
+> Once you completed, please go to [Canvas](https://canvas.ualberta.ca/) and submit **your Lab 3 GitHub repository link**.
