@@ -1,4 +1,4 @@
-# CMPUT 301 : Lab 3 - More Android - Adapters & Fragments [<img src="https://i.imgur.com/GjOB7DB.png" width="40" height="40" style="vertical-align: bottom"/>](https://i.imgur.com/GjOB7DB.png)
+# CMPUT 301 : Lab 3 Participation Exercise
 
 ## Student Details
 
@@ -11,7 +11,7 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 ## Verbal Collaboration
 
-| Student Name | CCID     |
-| ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
+| Student Name | CCID      |
+| ------------ | --------- |
+| `student`    | `student` |
+| `<Add more>` | `<CCID>`  |
