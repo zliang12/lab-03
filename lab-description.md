@@ -9,9 +9,10 @@
 
 During the lab demo, we'll implement "Add City" functionality:
 
-1. Review [Lab 3 Slides](https://eclass.srv.ualberta.ca/pluginfile.php/11688733/mod_label/intro/lab03-slides.pdf)
-2. Follow along with [Lab 3 Instructions](https://eclass.srv.ualberta.ca/pluginfile.php/11688733/mod_label/intro/lab03-instructions.pdf)
-3. By the end, you'll have implemented the ability to add new cities to the list.
+1. Review [Lab 3 Slides](https://ualberta-cmput301.github.io/labs/slides/Lab_3_Slides_Winter_2023.pdf)
+2. Follow along with [Lab 3 Instructions](https://ualberta-cmput301.github.io/labs/slides/Lab_3_Instructions_Winter_2023.pdf)
+3. Read about Java Code Conventions (see the [Code Conventions (Schoepp) PDF](https://ualberta-cmput301.github.io/labs/slides/Code_Conventions_Schoepp.pdf)).
+4. By the end, you'll have implemented the ability to add new cities to the list.
 
 ## 3. Lab 3 Participation Exercise
 
