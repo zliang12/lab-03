@@ -74,7 +74,5 @@ public static EditFragment newInstance(City city) {
 
 > [!CAUTION]
 > Make sure to commit **and** push your code to the GitHub repository before the deadline!
-
-> Make sure you have updated `README.md` with **your name** and **CCID** (Not your student number).
-
+> 
 > Once you completed, please go to [Canvas](https://canvas.ualberta.ca/) and submit **your Lab 3 GitHub repository link**.
