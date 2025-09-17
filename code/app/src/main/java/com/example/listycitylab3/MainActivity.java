@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
-import android.widget.AdapterView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 
@@ -75,10 +74,4 @@ public class MainActivity extends AppCompatActivity implements AddCityFragment.A
     public void darkenLayoutBackground(View view) {
         view.setBackgroundColor(getColor(R.color.transparent_black));
     }
-
-    // https://developer.android.com/reference/android/app/AlertDialog.Builder
-    // https://stackoverflow.com/questions/14439941/passing-data-between-fragments-to-activity
-    // https://stackoverflow.com/questions/12525304/alertdialog-setondismisslistener-not-working
-    // https://stackoverflow.com/questions/5425568/how-to-use-setarguments-and-getarguments-methods-in-fragments
-    // https://stackoverflow.com/questions/1492554/set-transparent-background-of-an-imageview-on-android
 }
